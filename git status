@@ -1,0 +1,17 @@
+[33mcommit 9af76d59439790d9147b9575feb873ecf6a4638c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mforum[m[33m)[m
+Author: Ilya <yankouskii@rambler.ru>
+Date:   Sun Dec 1 00:53:30 2019 +0300
+
+    gitignore added
+
+[33mcommit daf7c64b99d7525ec0b48648811e8f00c67894eb[m
+Author: Ilya <yankouskii@rambler.ru>
+Date:   Sun Dec 1 00:40:17 2019 +0300
+
+    ganged in index.php
+
+[33mcommit 22353571e928432b8d7f3f5b92035a72ce4c6078[m
+Author: Ilya <yankouskii@rambler.ru>
+Date:   Sun Dec 1 00:33:52 2019 +0300
+
+    add index.php and style.css
